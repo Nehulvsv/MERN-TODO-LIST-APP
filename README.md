@@ -1,0 +1,1 @@
+A simple and intuitive Todo List application built using the MERN (MongoDB, Express.js, React, Node.js) stack. This app allows users to effortlessly manage their tasks by adding, updating, and deleting tasks as needed.
